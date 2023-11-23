@@ -1,6 +1,3 @@
-<div style="background-color: #020c1b; padding: 20px;">
-<!-- Your existing content here -->
-
 # Terms of Service for [@Military Memes](https://discord.com/oauth2/authorize?client_id=1148750724264624158&permissions=412384283712&scope=bot) Usage
 
 Last Updated: 23/11/2023
@@ -39,4 +36,3 @@ If you have any questions about these Terms or need to report a violation, pleas
 By using [@Military Memes](https://discord.com/oauth2/authorize?client_id=1148750724264624158&permissions=412384283712&scope=bot), you agree to these Terms. Please read them carefully.
 
 @Diggsly © 2023
-</div>
